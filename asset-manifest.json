@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/ShopV22/static/css/main.257018a0.css",
+    "main.js": "/ShopV22/static/js/main.d8b79da2.js",
+    "static/js/453.64512fd7.chunk.js": "/ShopV22/static/js/453.64512fd7.chunk.js",
+    "static/media/about-us-page-heading.jpg": "/ShopV22/static/media/about-us-page-heading.87a4aaa41360e7d55b4c.jpg",
+    "static/media/about-left-image.jpg": "/ShopV22/static/media/about-left-image.ad7b77d9a3f118f38879.jpg",
+    "static/media/team-member-01.jpg": "/ShopV22/static/media/team-member-01.254b1f2fd95f13194136.jpg",
+    "static/media/kid-02.jpg": "/ShopV22/static/media/kid-02.cd85aa3fd9f6c0a7b0ca.jpg",
+    "static/media/women-02.jpg": "/ShopV22/static/media/women-02.c3345161644a67b1d940.jpg",
+    "static/media/men-02.jpg": "/ShopV22/static/media/men-02.a96fea261a26a22dcc4d.jpg",
+    "static/media/men-03.jpg": "/ShopV22/static/media/men-03.8a69a31ec3bccb2c9930.jpg",
+    "static/media/team-member-02.jpg": "/ShopV22/static/media/team-member-02.52950ccb1abd7da85f9c.jpg",
+    "static/media/men-01.jpg": "/ShopV22/static/media/men-01.20e6322a7200b7d5d4a5.jpg",
+    "static/media/women-03.jpg": "/ShopV22/static/media/women-03.3cf6fbd17021350f50b1.jpg",
+    "static/media/kid-01.jpg": "/ShopV22/static/media/kid-01.c5aedf7319354b85d61c.jpg",
+    "static/media/kid-03.jpg": "/ShopV22/static/media/kid-03.e02a61925434a70a3b4f.jpg",
+    "static/media/women-01.jpg": "/ShopV22/static/media/women-01.e0f051db07018d06e8b5.jpg",
+    "static/media/team-member-03.jpg": "/ShopV22/static/media/team-member-03.b1281927e3b8c0f40d12.jpg",
+    "static/media/service-02.jpg": "/ShopV22/static/media/service-02.e0d775576710a8bc27e4.jpg",
+    "static/media/service-03.jpg": "/ShopV22/static/media/service-03.2a94e5ddbccd7eb73fed.jpg",
+    "static/media/service-01.jpg": "/ShopV22/static/media/service-01.a35db9f3fce0393d867e.jpg",
+    "static/media/Hero_8.jpg": "/ShopV22/static/media/Hero_8.cf9c61345bc6296059a5.jpg",
+    "static/media/instagram-01.jpg": "/ShopV22/static/media/instagram-01.459ccb34d9ec89eeb712.jpg",
+    "static/media/instagram-03.jpg": "/ShopV22/static/media/instagram-03.fce2f71e9063192c061c.jpg",
+    "static/media/Hero_9.jpg": "/ShopV22/static/media/Hero_9.6ac525fa22050acc0bfa.jpg",
+    "static/media/instagram-02.jpg": "/ShopV22/static/media/instagram-02.355b47f5b2568404f32c.jpg",
+    "static/media/instagram-04.jpg": "/ShopV22/static/media/instagram-04.f9fb9200f8811b887311.jpg",
+    "static/media/Hero_2.jpg": "/ShopV22/static/media/Hero_2.05126184704ac8b2b103.jpg",
+    "static/media/Hero_1.jpg": "/ShopV22/static/media/Hero_1.8f56cb2f092fdd0454d0.jpg",
+    "static/media/Hero_7.jpg": "/ShopV22/static/media/Hero_7.8537a1d729abcd7ad15c.jpg",
+    "static/media/Hero_6.jpg": "/ShopV22/static/media/Hero_6.707f837822c524e91390.jpg",
+    "static/media/Hero_5.jpg": "/ShopV22/static/media/Hero_5.36151d05632d1abd6178.jpg",
+    "index.html": "/ShopV22/index.html",
+    "main.257018a0.css.map": "/ShopV22/static/css/main.257018a0.css.map",
+    "main.d8b79da2.js.map": "/ShopV22/static/js/main.d8b79da2.js.map",
+    "453.64512fd7.chunk.js.map": "/ShopV22/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.257018a0.css",
+    "static/js/main.d8b79da2.js"
+  ]
+}
