@@ -1,0 +1,10 @@
+export {default as Home} from './Home/Home';
+export {default as About } from './About/About';
+export {default as Contact} from './Contact/Contact';
+export {default as Page1} from './Page1/Page1';
+export {default as Men} from './Men/Men';
+export {default as Women} from './Women/Women';
+export {default as Kids} from './Kids/Kids';
+export {default as SingleProduct} from './SingleProduct/SingleProduct';
+export {default as Basket} from './Basket/Basket';
+export {default as Login} from './Login/Login';

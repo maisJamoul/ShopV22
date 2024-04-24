@@ -1,0 +1,9 @@
+export {default as HomeHero} from './HomeHero/HomeHero';
+export {default as HomeWrapper} from './HomeWrapper/HomeWrapper';
+export {default as Subscribe} from './Subscribe/Subscribe';
+export {default as Explore} from './Explore/Explore';
+export {default as AboutHero} from './AboutHero/AboutHero';
+export {default as AboutOurSkill} from './AboutOurSkill/AboutOurSkill';
+export {default as AboutTeam} from './AboutTeam/AboutTeam';
+export {default as AboutServices} from './AboutServices/AboutServices';
+export {default as Footer} from './Footer/Footer';
